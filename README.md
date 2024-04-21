@@ -8,3 +8,8 @@ Another module of the project is ChatApp for chating with other person. Shows th
 
 
 URL : https://rgpvenquirychatbotandchatapp.000webhostapp.com/RGPV/registration/
+
+### sign in with demo credentials 
+
+#### username : ```demo@gmail.com```
+#### password : ```demo```
