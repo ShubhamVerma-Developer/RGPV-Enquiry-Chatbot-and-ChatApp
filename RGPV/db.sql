@@ -45,7 +45,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`user_id`, `unique_id`, `name`, `mobile`, `email`, `password`, `code`, `verified`, `status`, `img`) VALUES
-(32, 364113845, 'shubham@admin', '9340997520', 'rgpvenquirychatbot@gmail.com', '$2y$10$.gncxfkCcH0Ff5/tQY6Mm.83AW5mfgTuJPtBnrx1HEAou.2bIT2xu', 0, 'verified', 'online', '364113845shubham@admin364113845shubham@adminshubham photo.jpg');
+(32, 364113845, 'shubham@admin', '1234567890', 'adminuser@gmail.com', '$2y$10$.gncxfkCcH0Ff5/tQY6Mm.83AW5mfgTuJPtBnrx1HEAou.2bIT2xu', 0, 'verified', 'online', '364113845shubham@admin364113845shubham@adminshubham photo.jpg');
 
 -- --------------------------------------------------------
 
@@ -374,10 +374,10 @@ CREATE TABLE `usertable` (
 --
 
 INSERT INTO `usertable` (`user_id`, `unique_id`, `name`, `mobile`, `email`, `password`, `code`, `verified`, `status`, `img`) VALUES
-(30, 1506145863, 'testuser3', '9340997520', 'shubhamverma2512200@gmail.com', '$2y$10$pTChUG/JH2IAksweM2yisuDmN2dPpocsC95kspQqfphH2ILQuFZlC', 0, 'verified', 'online', '859333508testuser21506145863testuser1user1.png'),
-(31, 859333508, 'testuser2', '9340997520', 'pegac43254@exoacre.com', '$2y$10$tOjmsWqbVZmda5Rp26DS6eBRuANGAbnckV751tKh59g8PvQ5ARbQq', 0, 'verified', 'online', '364113845shubham@admin364113845shubham@adminshubham photo.jpg'),
-(32, 364113845, 'shubham@admin', '9340997520', 'rgpvenquirychatbot@gmail.com', '$2y$10$zIq.N9J2Uj.3jD1kb/J42eA4Zqex6I.e4DdpZOoFePHJ.4fEf5UUC', 0, 'verified', 'Offline now', '364113845shubham@admin364113845shubham@adminshubham photo.jpg'),
-(37, 1437320798, 'shubham123', '9407278487', 'shubham25122001@gmail.com', '$2y$10$4FtQCMblWqCj4gqU1vWb3uyXoqDa/JLMuMPFCtxoMCQf6UtdwLLUm', 0, 'verified', 'online', '1437320798shubham123364113845shubham@adminshubham1 photo.jpg'),
+(30, 1506145863, 'testuser3', '1234567890', 'shubhamverma123465@gmail.com', '$2y$10$pTChUG/JH2IAksweM2yisuDmN2dPpocsC95kspQqfphH2ILQuFZlC', 0, 'verified', 'online', '859333508testuser21506145863testuser1user1.png'),
+(31, 859333508, 'testuser2', '1234567890', 'pegac43254@exoacre.com', '$2y$10$tOjmsWqbVZmda5Rp26DS6eBRuANGAbnckV751tKh59g8PvQ5ARbQq', 0, 'verified', 'online', '364113845shubham@admin364113845shubham@adminshubham photo.jpg'),
+(32, 364113845, 'shubham@admin', '1234567890', 'adminuser@gmail.com', '$2y$10$zIq.N9J2Uj.3jD1kb/J42eA4Zqex6I.e4DdpZOoFePHJ.4fEf5UUC', 0, 'verified', 'Offline now', '364113845shubham@admin364113845shubham@adminshubham photo.jpg'),
+(37, 1437320798, 'shubham123', '9407278487', 'shubham123@gmail.com', '$2y$10$4FtQCMblWqCj4gqU1vWb3uyXoqDa/JLMuMPFCtxoMCQf6UtdwLLUm', 0, 'verified', 'online', '1437320798shubham123364113845shubham@adminshubham1 photo.jpg'),
 (47, 144262, 'demo123', '12345678', 'abcd123@gmail.com', '$2y$10$lM6G9IlNJop2qLFsTt42kuECgsAC3A9/aNqPQk5ULkmmuHTufoL1u', 0, 'verified', 'Offline now', '859333508testuser21506145863testuser1user1.png'),
 (61, 626050529, 'ghjgh', '9455225512', 'ghjgdhjdgjhgj@ddfdfgfd', '$2y$10$lhU7zLTUtpjuPBM4pVIrBe27507u7D/zNPsGRYmo0I0NaA2S2ytV6', 897628, 'notverified', 'Offline now', 'profile.png');
 
